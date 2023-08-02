@@ -53,3 +53,6 @@
               </p>
             </footer>
     </details>    
+## Web Link
+
+https://64ca33c2b01008089039b58f--yunusemregungor-html-css-js-demo.netlify.app/
