@@ -1,6 +1,8 @@
 # Classes CSS
 # Simple Website
 
+![Screenshot_3](https://github.com/YunusEmreGungorDev/Classes-CSS-Basic-Web/assets/141125700/8b492ca1-f6b5-4ace-9bf4-8b5f94c3a8f3)
+
 ## head
     <link
       rel="stylesheet"
